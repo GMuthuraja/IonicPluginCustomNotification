@@ -28,7 +28,7 @@ public class CustomNotification extends CordovaPlugin {
 
             dialog.show();
 
-            callbackContext.success(message);
+            callbackContext.success("success");
             return true;
         }
         callbackContext.error("Expected one non-empty string argument.");
