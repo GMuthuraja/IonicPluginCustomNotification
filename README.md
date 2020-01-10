@@ -3,6 +3,14 @@ title: Ionic Custom Notification
 description: One can change the dialog color and button color as per their requirement
 ---
 
+# cordova-plugin-raqmiyat-custom-notification
+
+
+## Installation
+   ionic cordova plugin add cordova-plugin-raqmiyat-custom-notification (or)
+   ionic cordova plugin add https://github.com/GMuthuraja/IonicPluginCustomNotification.git
+
+
 ## Supported Platforms
 - Android
 
