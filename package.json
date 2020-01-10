@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-raqmiyat-custom-notification",
+  "version": "0.0.1",
+  "description": "cordova plugin to display custom notification",
+  "cordova": {
+    "id": "cordova-plugin-raqmiyat-custom-notification",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
