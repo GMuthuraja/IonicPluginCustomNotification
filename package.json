@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-raqmiyat-custom-notification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cordova plugin to display custom notification",
   "cordova": {
     "id": "cordova-plugin-raqmiyat-custom-notification",
