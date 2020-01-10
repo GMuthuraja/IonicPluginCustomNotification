@@ -13,7 +13,7 @@
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-        <source-file src="src/layout/my_dialog.xml" target-dir="res/layout/my_dialog.xml" />
+        <source-file src="res/layout/my_dialog.xml" target-dir="res/layout/my_dialog.xml" />
         <source-file src="src/android/CustomNotification.java" target-dir="src/cordova/plugin/raqmiyat/custom/notification" />
     </platform>
 </plugin>
