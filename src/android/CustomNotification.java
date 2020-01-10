@@ -1,4 +1,4 @@
-package cordova-plugin-raqmiyat-custom-notification;
+package cordova.plugin.raqmiyat.custom.notification;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
